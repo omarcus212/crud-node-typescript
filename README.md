@@ -5,7 +5,7 @@ Cada usuário possui **nome, e-mail e imagem**. 🚀
 
 ## 📋 Tecnologias Utilizadas
 
-- **Node.js**
+- **Node**
 - **Tyspscript**
 - **Mysql / PostgreSQL**
 
