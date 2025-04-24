@@ -1,3 +1,5 @@
+EM DESENVOLVIMENTO
+
 # 📌 CRUD de Usuários - API Node Tyspscript
 
 Um CRUD simples de usuários em desenvolvimento com **Node com Tyspscript**, permitindo cadastrar, listar, atualizar e excluir usuários.  
